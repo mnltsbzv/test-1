@@ -1,0 +1,22 @@
+body{
+background: #FFC0CB;
+}
+
+p {
+border: 10px solid #DAD871;
+text-align: center;
+color: #6E5160;
+background: #DB7093;
+padding: 50px;
+
+}
+.second
+{
+color: #7D4D5D;
+position:static;
+border-color: #E1CC4F;
+left: 100px;
+top: 10px;
+background:#DCD36A;
+padding: 60px;
+}
