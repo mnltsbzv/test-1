@@ -1,22 +1,10 @@
-body{
-background: #FFC0CB;
-}
-
-p {
-border: 10px solid #DAD871;
-text-align: center;
-color: #6E5160;
-background: #DB7093;
-padding: 50px;
-
-}
-.second
-{
-color: #7D4D5D;
-position:static;
-border-color: #E1CC4F;
-left: 100px;
-top: 10px;
-background:#DCD36A;
-padding: 60px;
-}
+p1, p2, p3 {color: #660;
+font-family: fantasy;
+border-top:20px;
+padding-top: 7px;
+padding-left: 100px;
+ }
+p4, p5, p6, p7 {color: #300;
+font-family:Arial;
+padding-top: 40px;
+padding-left: 10px;}
